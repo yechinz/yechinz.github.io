@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>隐</title>
+    <link href="/posts/584303593.html"/>
+    <url>/posts/584303593.html</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>记录一些话</p><span id="more"></span><p>2026-04-20<br><a href="Docker.md">Docker</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>人生体验</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>胡言乱语</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>C#上位机开发</title>
     <link href="/posts/1835272889.html"/>
     <url>/posts/1835272889.html</url>
@@ -342,9 +367,9 @@
     
     <tags>
       
-      <tag>IO流</tag>
-      
       <tag>Java</tag>
+      
+      <tag>IO流</tag>
       
     </tags>
     
